@@ -1,6 +1,8 @@
 First add - jv
 John is amazing!
 That is true.
+<<<<<<< HEAD
 Test to break.
+=======
 Technically, the statement is an opinion!
-
+>>>>>>> e5e502073b32035703ab6cd75b17e1666a087ae1
